@@ -1,4 +1,4 @@
-package Test;
+package Test; // Yao's
 
 //STEP 1. Import required packages
 import java.sql.*;
